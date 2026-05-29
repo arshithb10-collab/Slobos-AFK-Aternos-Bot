@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheOneWeekProject.aternos.me:46941",
+    "ip": "TheOneWeekProject.aternos.me",
     "port": 46941,
     "version": "",
     "try-creative": false
